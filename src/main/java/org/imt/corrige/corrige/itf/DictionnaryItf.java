@@ -1,6 +1,8 @@
-package org.imt.corrige.corrige;
+package org.imt.corrige.corrige.itf;
 
 import java.util.Collection;
+
+import org.imt.corrige.corrige.Person;
 
 public interface DictionnaryItf {
 	public Collection<Person> getAll();

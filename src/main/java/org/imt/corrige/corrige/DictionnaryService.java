@@ -2,6 +2,7 @@ package org.imt.corrige.corrige;
 
 import java.util.Collection;
 
+import org.imt.corrige.corrige.itf.DictionnaryItf;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
